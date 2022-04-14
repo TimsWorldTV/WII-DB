@@ -33,3 +33,13 @@
     text-align: right;
     
 }
+#backwiidbhtml a {
+    text-align: center;
+    color:red;
+    font-size: 20px;
+}
+#backwiidbhtml a:hover {
+    text-align: center;
+    color:rgb(43, 255, 0);
+    font-size: 20px;
+}
